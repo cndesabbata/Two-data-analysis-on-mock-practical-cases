@@ -69,11 +69,11 @@ Finally, run the jupyter notebooks **Insurance_company.ipynb** and **Piccardi_Mu
 
 - **Data analysis 1/data**: folder containing the data to be analysed for the first mock case.
 
-- **Insurance_company.ipynb**: main file, a jupyter notebook containing all the code to rerun all the experiments and analysis for the first mock case.
+- **Data analysis 1/Insurance_company.ipynb**: main file, a jupyter notebook containing all the code to rerun all the experiments and analysis for the first mock case.
 
 - **Data analysis 2/data**: folder containing the data to be analysed for the second mock case.
 
-- **Piccardi Music.ipynb**: main file, a jupyter notebook containing all the code to rerun all the experiments and analysis for the second mock case.
+- **Data analysis 2/Piccardi Music.ipynb**: main file, a jupyter notebook containing all the code to rerun all the experiments and analysis for the second mock case.
 
 ## 🛠 Skills
 
